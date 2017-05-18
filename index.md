@@ -30,6 +30,8 @@ This project is my subject of research in my undergraduate scientific research a
 
 The objectives of this research are the implementation of MATLAB codes to undestand the behavior of a space truss and methods of analysis, such as the Finite Element Method and the Spectral Element Method and control of vibration. The model will be developed using unidimensional elements (bars).
 
+<a href="http://pt-br.tinypic.com?ref=34qkbj6" target="_blank"><img src="http://i63.tinypic.com/34qkbj6.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
 ## Contact
 
 E-mail: mello.leticiaf@gmail.com
