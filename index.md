@@ -7,7 +7,12 @@ This project is my subject of research in my undergraduate scientific research a
 
 The objectives of this research are the implementation of MATLAB codes to undestand the behavior of a space truss and methods of analysis, such as the Finite Element Method and the Spectral Element Method and control of vibration. The model will be developed using unidimensional elements (bars).
 
-<a href="http://pt-br.tinypic.com?ref=34qkbj6" target="_blank"><img src="http://i63.tinypic.com/34qkbj6.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+This is the truss i'm working with:
+<a <a href="http://pt-br.tinypic.com?ref=2qxyn9h" target="_blank"><img src="http://i64.tinypic.com/2qxyn9h.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+And this is the truss during it's 15th mode of vibration:
+<a href="http://pt-br.tinypic.com?ref=96w95s" target="_blank"><img src="http://i64.tinypic.com/96w95s.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 
 ## Contact
 
